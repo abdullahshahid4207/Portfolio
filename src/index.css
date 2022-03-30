@@ -1,13 +1,52 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* NAVBAR Style */
+
+.web_title {
+  font-family: 'Alfa Slab One', cursive;
+  letter-spacing: 2px;
+  padding: 20px;
+  font-size: 24px;
+  opacity: 1;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.myNav {
+  background-color: transparent;
+}
+
+.myNav.active {
+  background-color: #003267;
+}
+
+.navLinks {
+  font-size: 24px;
+  font-family: 'Abel', sans-serif;
+  letter-spacing: 1px;
+  opacity: 1;
+  color: #fff;
+}
+
+.menu_active{
+  border-bottom: 1px solid #f57224;
+}
+
+.menu_active span{
+  color: #f57224;
+}
+
+/* Card styling */
+
+.card_title {
+  color: #000;
+  text-decoration: none;
+  font-family: 'Abel', sans-serif;
+  text-align: center;
+  font-size: 24px;
+}
+
+@media only screen and (max-height: 400px) {
+  .web_title {
+    font-size: 16px;
+  }
+  .navLinks {
+    font-size: 12px;
+  }
 }

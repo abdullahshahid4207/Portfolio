@@ -1,0 +1,10 @@
+{
+    "emmet.excludeLanguages": [
+
+
+
+        "markdown"
+    ],
+    "vsicons.associations.fileDefault.file": null,
+    "powermode.enabled": true,
+}
