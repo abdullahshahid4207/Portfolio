@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d1053e11.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6a73f3da.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6a73f3da.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.04ce70c1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.04ce70c1.js.map",
+    "static/js/2.40a6559b.chunk.js": "/Portfolio/static/js/2.40a6559b.chunk.js",
+    "static/js/2.40a6559b.chunk.js.map": "/Portfolio/static/js/2.40a6559b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.d1053e11.chunk.css.map": "/Portfolio/static/css/main.d1053e11.chunk.css.map",
+    "static/js/2.40a6559b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.40a6559b.chunk.js.LICENSE.txt",
+    "static/media/carrosel.49ac2666.jpeg": "/Portfolio/static/media/carrosel.49ac2666.jpeg",
+    "static/media/carrosel.67a13862.jpg": "/Portfolio/static/media/carrosel.67a13862.jpg",
+    "static/media/covid.d7725be3.jpg": "/Portfolio/static/media/covid.d7725be3.jpg",
+    "static/media/quiz.b41b205b.jfif": "/Portfolio/static/media/quiz.b41b205b.jfif",
+    "static/media/reactjs.28e76688.jfif": "/Portfolio/static/media/reactjs.28e76688.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04ce70c1.js",
+    "static/js/2.40a6559b.chunk.js",
+    "static/css/main.d1053e11.chunk.css",
+    "static/js/main.6a73f3da.chunk.js"
+  ]
+}
